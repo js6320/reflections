@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	you can make a commit for multiple files at once. It is nice when you work on multiple files but it relates to each other very closely, so you need to make changes at the same time.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+staging area is pre-stage to make a commit. it is not in the repository yet, but more ready than being in working directory. this way, you can make changes for each file seperately, but still make just one commit all together.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
