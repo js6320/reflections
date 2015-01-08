@@ -5,13 +5,17 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-staging area is pre-stage to make a commit. it is not in the repository yet, but more ready than being in working directory. this way, you can make changes for each file seperately, but still make just one commit all together.
+	staging area is pre-stage to make a commit. it is not in the repository yet, but more ready than being in working directory. this way, you can make changes for each file seperately, but still make just one commit all together.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	I don't have to commit everytime I make a change for each file, once I'm done with one file, I use stage area and add the file to there. Then work on another file. After all the changes are made for every file, I can commit all fo them at once.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	when you want to experiment some code but not really sure it will work or you will ever use this version of code, you can just try out. if it doesn't work you don't have to use it, but if it works out, you can merge into master branch later.
 
 How do the diagrams help you visualize the branch structure?
 
