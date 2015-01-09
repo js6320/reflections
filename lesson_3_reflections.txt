@@ -24,9 +24,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I need to worry more about conflict when I use GitHub, but it will help when I need to collaborate with other people remotely than using Git.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    when I want to want to run some experiment, and when I'm not sure if this work or not, 
+I would use other branch than master. If I can do that I can keep going on with master branches work, but still I can run some type of experiment separate from the main work.
